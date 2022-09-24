@@ -1,0 +1,57 @@
+.me {
+    height: 375px;
+    width: 300px;
+    box-shadow: 25px 25px #33504c;
+    display: flex;
+    align-items: flex-end;
+    margin: 100 100 100 200;
+}
+body {
+    justify-content: center;
+    display: flex;
+    background-color: white;
+}
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1 {
+    background-color: azure;
+    display: block;   
+    width: 1300;
+    height: 650;
+    align-items: center;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 50 0 50 0;
+    
+}
+a {
+    text-decoration: none;
+    color: whitesmoke;
+} 
+
+.header {
+    display: flex;
+    font-size: 20;
+    justify-content: flex-end;
+    background-color: rgb(64, 95, 87);
+}
+.nav {
+    margin: 10 35 10 35;
+}
+.nav:hover {
+    color: black;
+}
+.name {
+    color: rgb(31, 76, 64);
+}
+
+.student {
+    color: rgb(64, 95, 87);
+}
+.text1 {
+    margin-left: 40px;
+    justify-content: center;
+    
+}

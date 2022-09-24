@@ -1,0 +1,108 @@
+.container {
+    display: block;
+    align-items: center;
+    background-color: azure;
+}
+.me {
+    height: 200px;
+    width: 200px;
+    border-radius: 5cm;
+    border: 2px solid white;
+    margin-bottom: 10;
+    margin-left: 50;
+    margin-right: 50;
+}
+.main {
+    display: block;
+    width: 1300px;
+    height: 650;
+    align-items: center;
+    background-color: azure;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 50 0 50 0;
+}
+.body2 {
+    width: 33.33%;
+    margin: 10 10 10 10;
+    height: 90%;
+}
+.head {
+    line-height: 3;
+    color: #33504c;
+}
+.text1 {
+    font-size: 15;
+}
+.head1 {
+    font-size: 25;
+    display: flex;
+    line-height: 2.2;
+    color: #33504c;
+}
+li {
+    list-style: none;
+}
+.edu {
+    display: flex;
+    font-size: 22;
+    line-height: 2.5;
+    color: #003333;
+}
+.text2 {
+    display: flex;
+    line-height: 1.8;
+    font-size: 15;
+}
+.head2 {
+    font-size: 25;
+    line-height: 2.2;
+}
+.body1 {
+    width: 33.33%;
+    
+    margin: 10 10 10 10;
+    height: 90%;
+}
+.education {
+    margin: 25 50 30 10;
+   
+}
+a {
+    text-decoration: none;       
+}
+.nav {
+    margin: 10 35 10 35;
+    color: whitesmoke;
+}
+.nav:hover {
+    color: black;
+}
+.about {
+    margin-left: 41;
+}
+i {
+    margin: 10 10 10 5;
+    color: black;
+}
+.text3 {
+    font-size: 20;
+}
+.buttons {
+    display: flex;
+    font-size: 20;
+    justify-content: flex-end;
+    background-color: rgb(64, 95, 87);
+}
+.body3 {
+    margin: 10 10 10;
+    width: 33.33%;
+    height: 90%;
+}
+.body {
+    display: flex;
+}
+body {
+    justify-content: center;
+    display: flex;
+    background-color: white;
+}
